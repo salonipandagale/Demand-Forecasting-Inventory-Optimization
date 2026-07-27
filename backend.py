@@ -15,7 +15,7 @@ import numpy as np
 import pandas as pd
 
 data = pd.read_csv("demand_inventory.csv")
-data['Date'] = pd.to_datetime(data['Date'])
+data['Date'] = pd.to_datetime(data['Date'], format="%d-%m-%Y")
 time_series = data.set_index('Date')['Demand']
 
 # Load model
