@@ -86,4 +86,4 @@ Demand-Forecasting/
 ---
 
 ## Live Demo
-
+https://demand-forecasting-inventory-optimization.streamlit.app/
