@@ -2,6 +2,9 @@
 
 An end-to-end Data Science project that predicts future product demand and helps optimize inventory decisions using time series forecasting and an interactive Streamlit dashboard.
 
+## Live Demo
+https://demand-forecasting-inventory-optimization.streamlit.app/
+
 ---
 
 ## Project Overview
@@ -84,6 +87,3 @@ Demand-Forecasting/
 - Forecast trends
 
 ---
-
-## Live Demo
-https://demand-forecasting-inventory-optimization.streamlit.app/
