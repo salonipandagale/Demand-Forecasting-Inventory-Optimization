@@ -10,7 +10,7 @@ The project uses the M5 retail sales dataset to forecast daily demand for a sele
 
 **Live Streamlit Application:**
 
-`[ ADD LIVE STREAMLIT LINK HERE ]`
+https://demand-forecasting-inventory-optimization-bd9h.onrender.com/
 
 ---
 
